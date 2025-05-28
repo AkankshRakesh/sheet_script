@@ -1,3 +1,8 @@
+
+
+https://github.com/user-attachments/assets/36278c19-83fa-4762-9e82-d78a211ad1b3
+
+
 # Lead Automation System
 
 A low-code automation solution that processes new leads from Google Sheets by sending Slack notifications and welcome emails. Built with Google Apps Script to demonstrate business logic translation into automated workflows.
