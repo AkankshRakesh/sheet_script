@@ -15,11 +15,6 @@ This system automatically handles new sales leads by:
 ### 1. Google Sheet
 **Live Demo Sheet**: [Lead Tracking Spreadsheet](https://docs.google.com/spreadsheets/d/1Hcq8NTZk-aKKPqNb0Sk9o4cKzdULfWSyU1bMxrrP_xU/edit?usp=sharing)
 
-The sheet contains:
-- Sample lead data for testing
-- Automatic processing status tracking
-- Error logging capabilities
-
 ### 2. Slack Integration
 The system sends rich, formatted notifications to your sales channel:
 
@@ -58,7 +53,7 @@ The Sales Team
 ```
 
 ### 4. Apps Script Code
-**Repository**: [Lead Automation Script](./lead-automation-complete-rows.js)
+**Repository**: [Lead Automation Script](./script.js)
 
 The script includes comprehensive comments explaining:
 - Function purposes and parameters
@@ -66,7 +61,7 @@ The script includes comprehensive comments explaining:
 - Error handling strategies
 - Integration patterns
 
-## 🚀 Features
+## ⚙️ Features
 
 ### Core Functionality
 - **Complete Row Validation**: Only triggers when ALL fields are filled
@@ -245,38 +240,5 @@ Set these Script Properties:
 - **Advanced Templates**: Dynamic email personalization
 - **Audit Trail**: Complete lead lifecycle tracking
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests for new functionality
-5. Submit a pull request
-
-## 📞 Support
-
-For questions or issues:
-- **Documentation**: Check the inline code comments
-- **Debugging**: Review the Error Log sheet
-- **Configuration**: Run the `checkConfig()` function
-- **Issues**: Open a GitHub issue with details
-
 ---
-
-```
-
-This README provides comprehensive documentation covering all your deliverables:
-
-✅ **Link to shared sheet** - Included in deliverables section  
-✅ **Slack message format** - Shown with example  
-✅ **Email template** - Full example provided  
-✅ **Code repository** - Referenced with detailed comments  
-✅ **Error handling** - Comprehensive section on resilience  
-✅ **Edge cases** - Detailed coverage of all scenarios  
-
-The README is structured to showcase the technical depth while remaining accessible to business stakeholders who need to understand the solution's value and capabilities.
 
