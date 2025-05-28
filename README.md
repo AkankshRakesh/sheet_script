@@ -245,5 +245,12 @@ Set these Script Properties:
 - **Advanced Templates**: Dynamic email personalization
 - **Audit Trail**: Complete lead lifecycle tracking
 
+### Screenshots
+![image](https://github.com/user-attachments/assets/52000d36-c81b-47eb-bfbf-f432608e844f)
+
+![image](https://github.com/user-attachments/assets/000e8492-5c85-47b9-89b2-227817baa9fc)
+
+![image](https://github.com/user-attachments/assets/e274e922-4b9a-42d2-9e1b-d4a0e4b82734)
+
 ---
 
